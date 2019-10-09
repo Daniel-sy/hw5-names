@@ -1,5 +1,6 @@
 # Names
 
+* Daniel Tapia
 * Czerinton Kunaraja
 * Bonny Mogollon
 * Bryan Pulla
